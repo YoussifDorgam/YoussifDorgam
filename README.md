@@ -8,13 +8,15 @@
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
  
-- Software Engineer
-- Mobile developer using Flutter 
+ - Software Engineer
+ - Mobile application developer using flutter technology 
 <hr>
 
 
 <!-- 👋💙 🤝 -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdelrahmanFouad1&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
+  
+  # 📊GitHub Stats 
 
 <div align="center">
 
@@ -60,4 +62,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
