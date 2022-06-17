@@ -14,10 +14,13 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdelrahmanFouad1&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
 <div align="center">
-  <a href="https://github.com/YoussifDorgam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussifDorgam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussifDorgam&layout=compact&langs_count=7&theme=dracula"/>
+
+
+[![Youssif's github stats](https://github-readme-stats.vercel.app/api?username=YoussifDorgam&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussifDorgam&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
+
   
   <h2> Languages and Tools </h2>
 
@@ -36,7 +39,7 @@
  <br/> -->
 <hr>
 
-##
+## 🔗 Connect with me on :
  
 <div> 
   <a href="https://www.youtube.com/channel/UCYanY9PVlGkb4nbWvnr7Qiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
